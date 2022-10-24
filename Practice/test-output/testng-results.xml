@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="6" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-08T23:45:05 IST" name="Suite" finished-at="2022-09-08T23:45:05 IST" duration-ms="459">
+    <groups>
+      <group name="OnlyMe">
+        <method signature="TESTNG.Demo4()[pri:0, instance:test.TESTNG@29d89d5d]" name="Demo4" class="test.TESTNG"/>
+      </group> <!-- OnlyMe -->
+    </groups>
+    <test started-at="2022-09-08T23:45:05 IST" name="Test" finished-at="2022-09-08T23:45:05 IST" duration-ms="459">
+      <class name="test.TESTNG2">
+        <test-method is-config="true" signature="Demo5()[pri:0, instance:test.TESTNG2@223aa2f7]" started-at="2022-09-08T23:45:05 IST" name="Demo5" finished-at="2022-09-08T23:45:05 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo5 -->
+        <test-method signature="Demo8()[pri:0, instance:test.TESTNG2@223aa2f7]" started-at="2022-09-08T23:45:05 IST" name="Demo8" finished-at="2022-09-08T23:45:05 IST" duration-ms="61" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo8 -->
+        <test-method signature="Demo9()[pri:0, instance:test.TESTNG2@223aa2f7]" started-at="2022-09-08T23:45:05 IST" name="Demo9" finished-at="2022-09-08T23:45:05 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo9 -->
+        <test-method signature="Demo7(java.lang.String)[pri:0, instance:test.TESTNG2@223aa2f7]" started-at="2022-09-08T23:45:05 IST" name="Demo7" finished-at="2022-09-08T23:45:05 IST" depends-on-methods="test.TESTNG2.Demo8, test.TESTNG2.Demo9" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[QAClickAcademy.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo7 -->
+      </class> <!-- test.TESTNG2 -->
+      <class name="test.TESTNG">
+        <test-method is-config="true" signature="Demo()[pri:0, instance:test.TESTNG@29d89d5d]" started-at="2022-09-08T23:45:05 IST" name="Demo" finished-at="2022-09-08T23:45:05 IST" duration-ms="88" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo -->
+        <test-method is-config="true" signature="Demo2()[pri:0, instance:test.TESTNG@29d89d5d]" started-at="2022-09-08T23:45:05 IST" name="Demo2" finished-at="2022-09-08T23:45:05 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo2 -->
+        <test-method signature="Demo11()[pri:0, instance:test.TESTNG@29d89d5d]" started-at="2022-09-08T23:45:05 IST" name="Demo11" finished-at="2022-09-08T23:45:05 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo11 -->
+        <test-method is-config="true" signature="Demo1()[pri:0, instance:test.TESTNG@29d89d5d]" started-at="2022-09-08T23:45:05 IST" name="Demo1" finished-at="2022-09-08T23:45:05 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo1 -->
+        <test-method is-config="true" signature="Demo2()[pri:0, instance:test.TESTNG@29d89d5d]" started-at="2022-09-08T23:45:05 IST" name="Demo2" finished-at="2022-09-08T23:45:05 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo2 -->
+        <test-method signature="Demo4()[pri:0, instance:test.TESTNG@29d89d5d]" started-at="2022-09-08T23:45:05 IST" name="Demo4" finished-at="2022-09-08T23:45:05 IST" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo4 -->
+        <test-method is-config="true" signature="Demo1()[pri:0, instance:test.TESTNG@29d89d5d]" started-at="2022-09-08T23:45:05 IST" name="Demo1" finished-at="2022-09-08T23:45:05 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo1 -->
+        <test-method is-config="true" signature="Demo3()[pri:0, instance:test.TESTNG@29d89d5d]" started-at="2022-09-08T23:45:05 IST" name="Demo3" finished-at="2022-09-08T23:45:05 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo3 -->
+      </class> <!-- test.TESTNG -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

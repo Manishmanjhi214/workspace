@@ -1,0 +1,574 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="11" passed="11" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-15T21:14:08 IST" name="Default suite" finished-at="2022-09-15T21:14:09 IST" duration-ms="1079">
+    <groups>
+    </groups>
+    <test started-at="2022-09-15T21:14:08 IST" name="Default test" finished-at="2022-09-15T21:14:09 IST" duration-ms="1079">
+      <class name="ManishTestPractice2.TDDProj.DataProviderAndExcelIntegration">
+        <test-method signature="testCaseData(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:ManishTestPractice2.TDDProj.DataProviderAndExcelIntegration@3a7442c7]" started-at="2022-09-15T21:14:09 IST" name="testCaseData" data-provider="exceldata" finished-at="2022-09-15T21:14:09 IST" duration-ms="8" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sam Heath Household]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Residential]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Hot]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[NM]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[1234567890]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[https://twitter.com/trailhead]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Odessa]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[94114]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[45000]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCaseData -->
+        <test-method signature="testCaseData(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:ManishTestPractice2.TDDProj.DataProviderAndExcelIntegration@3a7442c7]" started-at="2022-09-15T21:14:09 IST" name="testCaseData" data-provider="exceldata" finished-at="2022-09-15T21:14:09 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Imran Pope Household]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Residential]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Medium]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[CO]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[3456789012]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[https://twitter.com/salesforce]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Denver]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[80206]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[70000]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCaseData -->
+        <test-method signature="testCaseData(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:ManishTestPractice2.TDDProj.DataProviderAndExcelIntegration@3a7442c7]" started-at="2022-09-15T21:14:09 IST" name="testCaseData" data-provider="exceldata" finished-at="2022-09-15T21:14:09 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Alice Wilson Household]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Residential]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Hot]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[NM]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[4567890123]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[https://twitter.com/salesforce]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Fort Sumner]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[88119]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[30000]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCaseData -->
+        <test-method signature="testCaseData(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:ManishTestPractice2.TDDProj.DataProviderAndExcelIntegration@3a7442c7]" started-at="2022-09-15T21:14:09 IST" name="testCaseData" data-provider="exceldata" finished-at="2022-09-15T21:14:09 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Lauren Barrass Household]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Residential]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Cold]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[CO]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[5678901234]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[https://twitter.com/trailhead]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[La Junta]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[81050]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[50000]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCaseData -->
+        <test-method signature="testCaseData(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:ManishTestPractice2.TDDProj.DataProviderAndExcelIntegration@3a7442c7]" started-at="2022-09-15T21:14:09 IST" name="testCaseData" data-provider="exceldata" finished-at="2022-09-15T21:14:09 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Nathan Milstid Household]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Residential]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Medium]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[NM]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[6789012345]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[https://twitter.com/salesforce]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Ruidoso]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[88345]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[40000]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCaseData -->
+        <test-method signature="testCaseData(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:ManishTestPractice2.TDDProj.DataProviderAndExcelIntegration@3a7442c7]" started-at="2022-09-15T21:14:09 IST" name="testCaseData" data-provider="exceldata" finished-at="2022-09-15T21:14:09 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Noreen Drake Household]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Residential]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Hot]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[CO]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[7890123456]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[https://twitter.com/trailhead]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Colorado Springs]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[80919]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[35000]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCaseData -->
+        <test-method signature="testCaseData(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:ManishTestPractice2.TDDProj.DataProviderAndExcelIntegration@3a7442c7]" started-at="2022-09-15T21:14:09 IST" name="testCaseData" data-provider="exceldata" finished-at="2022-09-15T21:14:09 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Katie Abbasi Household]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Residential]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Cold]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[NM]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[8901234567]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[https://twitter.com/salesforce]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Tucumcari]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[88401]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[45000]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCaseData -->
+        <test-method signature="testCaseData(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:ManishTestPractice2.TDDProj.DataProviderAndExcelIntegration@3a7442c7]" started-at="2022-09-15T21:14:09 IST" name="testCaseData" data-provider="exceldata" finished-at="2022-09-15T21:14:09 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Marcella Peperini Household]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Residential]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Cold]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[NV]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[1234567890]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[https://twitter.com/trailhead]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Odessa]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[30000]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCaseData -->
+        <test-method signature="testCaseData(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:ManishTestPractice2.TDDProj.DataProviderAndExcelIntegration@3a7442c7]" started-at="2022-09-15T21:14:09 IST" name="testCaseData" data-provider="exceldata" finished-at="2022-09-15T21:14:09 IST" duration-ms="5" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Whitney Kelm Household]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Residential]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Hot]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[NV]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[1234567890]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[https://twitter.com/trailhead]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Las Vegas]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[89104]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[75000]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCaseData -->
+        <test-method signature="testCaseData(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:ManishTestPractice2.TDDProj.DataProviderAndExcelIntegration@3a7442c7]" started-at="2022-09-15T21:14:09 IST" name="testCaseData" data-provider="exceldata" finished-at="2022-09-15T21:14:09 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Cari Barlow Household]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Residential]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Hot]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[NM]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[2345678901]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[https://twitter.com/salesforce]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Pie Town]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[87827]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[50000]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCaseData -->
+        <test-method signature="testCaseData(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:ManishTestPractice2.TDDProj.DataProviderAndExcelIntegration@3a7442c7]" started-at="2022-09-15T21:14:09 IST" name="testCaseData" data-provider="exceldata" finished-at="2022-09-15T21:14:09 IST" duration-ms="5" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Pat Heath Household]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Residential]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Medium]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[NV]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[9012345678]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[https://twitter.com/salesforce]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Duckwater]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[89314]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[55000]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCaseData -->
+      </class> <!-- ManishTestPractice2.TDDProj.DataProviderAndExcelIntegration -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

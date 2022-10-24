@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<listeners>
+	<listener class-name="test.Listeners"></listener>
+</listeners>
+	<test thread-count="5" name="Test">
+	<parameter name="URL" value="QAClickAcademy.com"></parameter>
+		<!-- <groups>
+			<run>
+				<include name="OnlyMe">
+				</include>
+			</run>
+		</groups> -->
+		<packages> <package name="test"></package> </packages>
+		<classes>
+			<class name="test.TESTNG2">
+			</class>
+				<!--<methods>
+					<include name="Demo1"></include> 
+					 <exclude name="Demo2"></exclude> 
+				</methods>-->
+		</classes>
+	</test>
+</suite> 

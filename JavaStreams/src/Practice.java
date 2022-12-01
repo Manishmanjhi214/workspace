@@ -1,4 +1,3 @@
-import static org.testng.Assert.ARRAY_MISMATCH_TEMPLATE;
 
 public class Practice {
 	public static void main(String[] args) {

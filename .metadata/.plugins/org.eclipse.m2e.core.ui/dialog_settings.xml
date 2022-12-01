@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="wizardPage">
 		<list key="groupId">
+			<item value="Streams2"/>
 			<item value="ABCD"/>
 			<item value="JavaStreams"/>
 			<item value="SeleniumProject1"/>
@@ -9,6 +10,7 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="Streams2"/>
 			<item value="ABCD"/>
 			<item value="JavaStreams"/>
 			<item value="SeleniumProject1"/>
@@ -63,26 +65,10 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="APITestingDemo.APITestingDemo"/>
-			<item value="APITestingDemo.Demo"/>
-			<item value="SeleniumTest.SeleniumTest1"/>
-			<item value="ManishTestPractice2.Steams"/>
-			<item value="ManishTestPractice2.TDDProj"/>
-			<item value="ManishTestPractice"/>
 		</list>
 		<list key="groupId">
-			<item value="APITestingDemo"/>
-			<item value="SeleniumTest"/>
-			<item value="ManishTestPractice2"/>
-			<item value="ManishTestPractice"/>
 		</list>
 		<list key="artifactId">
-			<item value="APITestingDemo"/>
-			<item value="Demo"/>
-			<item value="SeleniumTest1"/>
-			<item value="Steams"/>
-			<item value="TDDProj"/>
-			<item value="SeleniumFrameWork"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -114,5 +100,7 @@
 		<list key="version">
 			<item value="0.0.1-SNAPSHOT"/>
 		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.wizards.CustomArchetypeDialog">
 	</section>
 </section>

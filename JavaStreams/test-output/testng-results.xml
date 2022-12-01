@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-10-14T22:00:44 IST" name="Default suite" finished-at="2022-10-14T22:00:44 IST" duration-ms="95">
+  <suite started-at="2022-11-01T09:45:50 IST" name="Default suite" finished-at="2022-11-01T09:45:50 IST" duration-ms="117">
     <groups>
     </groups>
-    <test started-at="2022-10-14T22:00:44 IST" name="Default test" finished-at="2022-10-14T22:00:44 IST" duration-ms="95">
+    <test started-at="2022-11-01T09:45:50 IST" name="Default test" finished-at="2022-11-01T09:45:50 IST" duration-ms="117">
       <class name="CountNameWithA">
-        <test-method signature="streamCollect()[pri:0, instance:CountNameWithA@3fb1549b]" started-at="2022-10-14T22:00:44 IST" name="streamCollect" finished-at="2022-10-14T22:00:44 IST" duration-ms="17" status="PASS">
+        <test-method signature="streamCollect()[pri:0, instance:CountNameWithA@636be97c]" started-at="2022-11-01T09:45:50 IST" name="streamCollect" finished-at="2022-11-01T09:45:50 IST" duration-ms="27" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- streamCollect -->
-        <test-method signature="streamMatch()[pri:0, instance:CountNameWithA@3fb1549b]" started-at="2022-10-14T22:00:44 IST" name="streamMatch" finished-at="2022-10-14T22:00:44 IST" duration-ms="3" status="PASS">
+        <test-method signature="streamMatch()[pri:0, instance:CountNameWithA@636be97c]" started-at="2022-11-01T09:45:50 IST" name="streamMatch" finished-at="2022-11-01T09:45:50 IST" duration-ms="3" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- streamMatch -->
-        <test-method signature="uniqueNumber()[pri:0, instance:CountNameWithA@3fb1549b]" started-at="2022-10-14T22:00:44 IST" name="uniqueNumber" finished-at="2022-10-14T22:00:44 IST" duration-ms="4" status="PASS">
+        <test-method signature="uniqueNumber()[pri:0, instance:CountNameWithA@636be97c]" started-at="2022-11-01T09:45:50 IST" name="uniqueNumber" finished-at="2022-11-01T09:45:50 IST" duration-ms="5" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- uniqueNumber -->

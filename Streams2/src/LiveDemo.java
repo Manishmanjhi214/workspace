@@ -13,9 +13,9 @@ public class LiveDemo {
 
 // TODO Auto-generated method stub
 
-		System.setProperty("webdriver.chrome.driver", "F:/ECLIPSE/workspace/SeleniumProject1/chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver", "E:/ECLIPSE/workspace/SeleniumProject1/chromedriver.exe");
 
-		WebDriver driver =(WebDriver) new ChromeDriver();
+		WebDriver driver =new ChromeDriver();
 		driver.get("https://rahulshettyacademy.com/greenkart/#/offers");
 
 // click on column
@@ -73,6 +73,7 @@ public class LiveDemo {
 		String pricevalue = s.findElement(By.xpath("following-sibling::td[1]")).getText();
 
 		return pricevalue;
+		
 
 	}
 
